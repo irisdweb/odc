@@ -286,7 +286,7 @@ hr.linhaPretaDireita {
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 505px; /*AJUSTAR PX A %*/
+    width: 30vw; /*AJUSTAR PX A %*/
     line-height: 150%;
 }
 
